@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### About me
 
-Software developer with work experience in mobile technologies such as Swift, Java Android, Flutter, Firebase Realtime Database, Firebase Firestore Cloud Database, with knowledge in design algorithms
+Software developer with work experience in mobile technologies such as Swift, Java/Kotlin Android, Flutter, Firebase Realtime Database, Firebase Firestore Cloud Database, with knowledge in design algorithms
 
 I keep in constant learning of Data science topics like web scraping, data visualizations, pipeline Extract Transform and Load process. 
 
